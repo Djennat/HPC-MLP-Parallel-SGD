@@ -1,0 +1,99 @@
+{
+  "implementation": "serial",
+  "preprocessing_time_s": 6.8108,
+  "training_time_s": 12.9586,
+  "final_accuracy": 0.8594,
+  "epochs": 15,
+  "per_epoch": [
+    {
+      "epoch": 1,
+      "loss": 0.855266,
+      "accuracy": 0.7928,
+      "time_s": 1.977
+    },
+    {
+      "epoch": 2,
+      "loss": 0.539502,
+      "accuracy": 0.8075,
+      "time_s": 0.706
+    },
+    {
+      "epoch": 3,
+      "loss": 0.483927,
+      "accuracy": 0.8144,
+      "time_s": 0.869
+    },
+    {
+      "epoch": 4,
+      "loss": 0.454178,
+      "accuracy": 0.8304,
+      "time_s": 0.648
+    },
+    {
+      "epoch": 5,
+      "loss": 0.433155,
+      "accuracy": 0.8373,
+      "time_s": 0.589
+    },
+    {
+      "epoch": 6,
+      "loss": 0.416658,
+      "accuracy": 0.8223,
+      "time_s": 0.979
+    },
+    {
+      "epoch": 7,
+      "loss": 0.404774,
+      "accuracy": 0.85,
+      "time_s": 0.675
+    },
+    {
+      "epoch": 8,
+      "loss": 0.393481,
+      "accuracy": 0.8464,
+      "time_s": 0.646
+    },
+    {
+      "epoch": 9,
+      "loss": 0.383016,
+      "accuracy": 0.8518,
+      "time_s": 0.771
+    },
+    {
+      "epoch": 10,
+      "loss": 0.375201,
+      "accuracy": 0.8495,
+      "time_s": 0.754
+    },
+    {
+      "epoch": 11,
+      "loss": 0.366868,
+      "accuracy": 0.8578,
+      "time_s": 0.736
+    },
+    {
+      "epoch": 12,
+      "loss": 0.359732,
+      "accuracy": 0.8523,
+      "time_s": 0.683
+    },
+    {
+      "epoch": 13,
+      "loss": 0.354617,
+      "accuracy": 0.8573,
+      "time_s": 0.684
+    },
+    {
+      "epoch": 14,
+      "loss": 0.347525,
+      "accuracy": 0.8459,
+      "time_s": 0.691
+    },
+    {
+      "epoch": 15,
+      "loss": 0.342556,
+      "accuracy": 0.8594,
+      "time_s": 1.148
+    }
+  ]
+}
